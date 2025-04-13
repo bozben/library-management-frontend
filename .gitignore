@@ -1,0 +1,34 @@
+# Node.js dependency directories
+node_modules/
+
+# Vite build output directories
+/dist/
+/vite/
+
+# Log files
+*.log
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build output directories
+build/
+
+# Environment variable files
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Yarn lock file (if using yarn, otherwise delete this)
+yarn-error.log
+
+# npm log files
+npm-debug.log*
